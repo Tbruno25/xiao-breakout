@@ -1,3 +1,3 @@
 # xiao-breakout
 
-![][/images/top.png]
+![](/images/top.png)
